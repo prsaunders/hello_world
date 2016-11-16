@@ -1,4 +1,7 @@
 void main(void)
 {
   print("hello world");
-  for (
+  for (i = 0, i== 10, i++);
+}
+
+    
